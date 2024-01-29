@@ -1,0 +1,164 @@
+@font-face {
+    font-family: "Genty Demo Regular";
+    src: url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.eot");
+    src: url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a919779c7bf67165eaeaa5375be6fe90.svg#Genty Demo Regular")format("svg");
+}
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+@font-face {
+    font-family: "Gliker";
+    src: url(../Assets/Fonts/Gliker-Font/Gliker-Regular.ttf)format(truetype);
+}
+
+
+html {
+    margin: 5px;
+    padding: 0;
+    height: 100%;
+}
+body {
+    margin: 5px;
+    padding: 0;
+    height: 100%;
+    background-color: #742D00;
+    background-image: url("../Assets/images/tile-repeat.PNG");
+    background-size: 240px;
+}
+
+
+                                                                                                                                                                                                                                                                                                        #awm {
+                                                                                                                                                                                                                                                                                                            opacity: 10%;
+                                                                                                                                                                                                                                                                                                        }
+
+div#wrapper {
+    margin: auto;
+    background-color: #F4E9DD;
+    min-height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #742D00;
+    box-shadow: 0 6px 4px 4px black;
+    border-radius:2rem;
+}
+
+div#logo-header {
+    /* margin: auto;
+    width: 60%; */
+    height: 200px;
+    background-color: #F4E9DD;
+    background-image: url("../Assets/images/logobg.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius:2rem 2rem 0 0;
+    overflow: hidden;
+    margin-top:10px;
+}
+
+div#content {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+div#nav {
+    padding: .5%;
+    flex: 1;
+    display: grid;
+    grid-template-rows: (1,2fr);
+    background-color: #D35E17;
+    border-radius: 0 2rem 2rem 0;
+    box-shadow: 0 2px 3px 2px black inset;
+}
+
+div#main {
+    padding: 2%;
+    flex: 1;
+    background-color: #F4E9DD;
+}
+
+
+div#footer {
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    box-sizing: border-box;
+    color: #000000;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 2em;
+    font-size: 2rem;
+    background-size:250px;
+    font-family: "Genty Demo Regular";
+}
+button.buttons {
+    margin: auto;
+    text-decoration: none;
+    border-radius: 1rem;
+    padding: 6px;
+    /* width: 7vw; */
+    /* height: 5vh; */
+    background-color: #D35E17;
+    font-size: 1.4rem;
+    color: white;
+    font-family: "Genty Demo Regular";
+    box-shadow: 5px 5px 2px #742c0080;
+    border: 3.5px solid #742D00;
+}
+
+.buttons:hover {
+background-color: #F4E9DD;
+color:#F2AE1C;
+cursor: pointer;
+font-size: 1.6rem;
+transition: all .5s;
+transform: translateY(-5px) translateX(-5px);
+}
+
+div#tileRepeat {
+    background-repeat: repeat;
+    background-position: left top;
+    background-size: 250px;
+    /* background-image: url(Assets/Images/images/tile-repeat.PNG); */
+    width: 100vw;
+    height:10vh;
+}
+#header-image-container {
+    font-family: "Genty Demo Regular";
+    flex: 3;
+    display: flex;
+    flex-direction:column;
+    
+}
+div#header-image {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#header-image{
+    margin: auto;
+    width: 100%;
+    flex: .5;
+
+    background-color: #F4E9DD;
+}
+
+img#photos {
+    box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.20);
+}
+
+
+
+
+
+
+
+
+
+
+
