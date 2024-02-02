@@ -3,6 +3,7 @@
 ## Project Summary
 ALPHA team's project was a basic coffee website for the company "Borcelle Coffee", my contribution consisted of creating the overall final presentation powerpoint as well as creating the assets and making sure they were consistent throughout the page, I also did basic help through-out the entire page. For example, me and Jordy collaborated on creating the presentation as well as getting feedback from our team members through out the creation. Within my work on the page I generally assisted with creating the background tile image, as well as imputting the images for the site. Continuing, I also helped by creating the grid system on the nav bar in order to make them be in the center as well as being the same disance from each other. I also collaborated with JP in order to create the layout for the basic website, however, JP did do most of the work.
 
+```
 ⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡔⠒⠒⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⢧⠿⣶⢤⣀⠀⠀⠀⠀⠀⡿⠀⢠⣆⠘⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠈⣷⠈⠻⣦⠑⢲⣤⣤⣠⡇⠀⣿⣿⡆⠈⣿⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -20,6 +21,7 @@ ALPHA team's project was a basic coffee website for the company "Borcelle Coffee
 ⠀⠀⠀⠀⠉⠙⣏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢹⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠸⡗⠀⠀⠀
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## Code Descriptions
 >I was not apart of helping with the final JS for the project so there will be no example here.
